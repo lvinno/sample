@@ -2,9 +2,9 @@
 
 function get_db_config()
 {
-    if (getenv('IS_IN_HEROKU')) {
+    if (getenv("DATABASE_URL")) {
         $url = parse_url(getenv("DATABASE_URL"));
-
+        echo $url;
         return $db_config = [
             'connection' => 'pgsql',
             'host' => $url["host"],
@@ -13,6 +13,7 @@ function get_db_config()
             'password'  => $url["pass"],
         ];
     } else {
+
         return $db_config = [
             'connection' => env('DB_CONNECTION', 'mysql'),
             'host' => env('DB_HOST', 'localhost'),
