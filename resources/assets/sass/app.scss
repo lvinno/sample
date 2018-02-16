@@ -135,14 +135,9 @@ section.user_info {
   margin-top: 20px;
   text-align: center;
   .gravatar {
-    margin-left: auto;
-    margin-right:auto;
-    display:block;
-    float:none;
+    float: none;
     max-width: 70px;
-    -webkit-border-radius:50px;
   }
-
   h1 {
     font-size: 1.4em;
     letter-spacing: -1px;
@@ -153,7 +148,9 @@ section.user_info {
 
 .gravatar {
   float: left;
-  -webkit-border-radius:50px;
+  margin-right: 10px;
+  max-width: 50px;
+  border-radius: 50%;
 }
 
 /* forms */
