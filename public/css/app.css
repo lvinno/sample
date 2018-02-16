@@ -16837,12 +16837,8 @@ section.user_info {
 }
 
 section.user_info .gravatar {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
   float: none;
   max-width: 70px;
-  -webkit-border-radius: 50px;
 }
 
 section.user_info h1 {
@@ -16854,7 +16850,9 @@ section.user_info h1 {
 
 .gravatar {
   float: left;
-  -webkit-border-radius: 50px;
+  margin-right: 10px;
+  max-width: 50px;
+  border-radius: 50%;
 }
 
 /* forms */
