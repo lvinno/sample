@@ -4,7 +4,7 @@ function get_db_config()
 {
     if (getenv("DATABASE_URL")) {
         $url = parse_url(getenv("DATABASE_URL"));
-        echo $url;
+        //echo $url;
         return $db_config = [
             'connection' => 'pgsql',
             'host' => $url["host"],
