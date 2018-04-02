@@ -1,0 +1,113 @@
+[33mcommit fafd721442be67046c0311162a3c2118878d27cf[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Sat Feb 17 10:11:51 2018 +0000
+
+    Finish login and logout
+
+[33mcommit ecc3e8773eecc91186e0a47dd3f5adae10091491[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Sat Feb 17 10:07:35 2018 +0000
+
+    Finish login and logout
+
+[33mcommit 4edd96e107ca8599e9aa3544b1496fa597ca6d29[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Fri Feb 16 11:05:07 2018 +0000
+
+    Update
+
+[33mcommit b4e08df21a8b75edfea12b0a0b1db540b39b2fa6[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Fri Feb 16 11:02:08 2018 +0000
+
+    Update
+
+[33mcommit a290c3b9e0c9b5db8c4a59baf1ada6294e3c1ed2[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Fri Feb 16 10:58:55 2018 +0000
+
+    Update
+
+[33mcommit f87efd0169f460370e85b1aa88e5aa04cec878cd[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Fri Feb 16 10:21:09 2018 +0000
+
+    Update
+
+[33mcommit e7da77ecfb414b93b266b46f114a39cb509b4b35[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Fri Feb 16 09:43:20 2018 +0000
+
+    Update database configuration
+
+[33mcommit 9970dfbc8a3e27c6ed47a9ac5f63758a021ae0d2[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Wed Feb 14 08:54:16 2018 +0000
+
+    Finish user signup
+
+[33mcommit 21bd2e14dcee6557eb9ecbab5c01cb80637f49be[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Tue Feb 13 08:11:16 2018 +0000
+
+    Move User to Models
+
+[33mcommit 5a143d85be551170d60256bb188a2af59bdb53bf[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Mon Feb 12 09:44:06 2018 +0000
+
+    try to fix a bug
+
+[33mcommit a874d116b0d4fa0e2537b5ab7d91b3d494c069e5[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Mon Feb 12 09:43:00 2018 +0000
+
+    try to fix a bug
+
+[33mcommit 3d3e40592e9b94ebcfe851c3640efab6892377a4[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Mon Feb 12 09:41:12 2018 +0000
+
+    try to fix a bug
+
+[33mcommit b9ac110de352791d4e0ff5ee034a01ed2ee46192[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Mon Feb 12 09:35:22 2018 +0000
+
+    try to fix a bug
+
+[33mcommit c2ce306a3d29b575090c26ade8499d2ee11be1ba[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Mon Feb 12 09:29:49 2018 +0000
+
+    try to fix a bug
+
+[33mcommit 2b9536807bc7bf895880eb4f9e21c65180c76a44[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Mon Feb 12 09:14:06 2018 +0000
+
+    Finish layout and routes
+
+[33mcommit cd72ae2655a9c9f39b24946e00d4b0afe399e764[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Sat Feb 10 10:22:29 2018 +0000
+
+    Finish static pages
+
+[33mcommit 37385284700254c40e2d35b8baa5d20373c99311[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Sat Feb 10 09:41:36 2018 +0000
+
+    Add .editorconfig
+
+[33mcommit 193190de53c067e282c4304123a80c6a63bc69b9[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Sat Feb 10 09:34:06 2018 +0000
+
+    Procfile for heroku
+
+[33mcommit 365efcc358efcaea0d8fe71e91c6baafdfaf1db7[m
+Author: lvino <lyuniancheng@gmail.com>
+Date:   Sat Feb 10 09:31:11 2018 +0000
+
+    Initial commit
